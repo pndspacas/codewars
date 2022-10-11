@@ -1,6 +1,6 @@
 # CodeWars Profile: <a href="https://www.codewars.com/users/pndspacas">Click Here<a>
   
-  <p>This is a repository filled with all the codewars challenges (kata) that I sucessfully solved.</p>
+  <p>This is a repository filled with all the codewars challenges (kata) that I successfully solved.</p>
 
   <h2>How It's Made</h2>
   
