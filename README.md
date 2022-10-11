@@ -1,1 +1,1 @@
-# CodeWars Challenges: <a href="https://www.codewars.com/users/pndspacas">Visit Here<a>
+# CodeWars Profile: <a href="https://www.codewars.com/users/pndspacas">Click Here<a>
