@@ -8,6 +8,6 @@ The input is a sequence of numbers: integers and/or floats. */
 
 function sumEvenNumbers(input) {
   let sum = input.filter((num)  => num % 2 === 0)
-  let evens = sum.reduce((acc,c) => acc + c)
+  let evens = sum.reduce((acc,c) => acc + c, 0)
   return evens
 }
